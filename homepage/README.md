@@ -1,5 +1,11 @@
 # Vue 3 + Vite
+# 1. Install node.js Check node and npm installation
+# 2. Run node index.js after installing npm in node folder
+# 3. After installing npm in vue folder and running npm run dev, check vite in console window
+# 4. You can find it in the browser at localhost:5173 url.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# Vue 3 + Vite
+# 1. node.js 설치 node와 npm 설치 확인 
+# 2. node 폴더안에서 npm install 후 node index.js 실행행
+# 3. vue 폴더안에서 npm install 후 npm run dev 실행 후 console창에 vite 실행 확인
+# 4. 브라우저에서 localhost:5173 url로 확인가능합니다.
